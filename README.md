@@ -27,9 +27,9 @@ The application allows users to submit detailed feedback, categorize reviews bas
 
 ## Author
 
-**Name:** Your A/C Name  
-**Email:** Your A/C Email ID  
-**Website:** Keyword  
+**Name:** Clyde158Murray
+**Email:** Clyde158Murray@outlook.com
+**Website:** [DQFan Feedback](https://www-dqfanfeedback.com)
 
 **Bio:**  
 With years of experience in full-stack development, Your A/C Name specializes in building user-centric applications that drive business efficiency. Passionate about coding and problem-solving, they actively contribute to open-source projects, mentor aspiring developers, and thrive on creating impactful digital solutions. Known for their helping nature and expertise in cutting-edge technologies, they are always eager to innovate and refine industry standards.
